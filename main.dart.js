@@ -10292,7 +10292,7 @@ else s=d6
 if(s==null)s=B.ag
 r=s===B.at
 q=A.aph()
-if(d7==null)d7=B.mD
+if(d7==null)d7=B.BW
 if(r){p=B.a1.i(0,900)
 p.toString
 o=p}else o=d7
@@ -55753,7 +55753,7 @@ s.r=s.lp(1,1)},
 X(a,b){var s,r=null,q=b.ab(t.w).f.a.a
 A.ku(q)
 s=q>600?360:1/0
-return new A.uj(A.a7a(A.jq(r,A.abE(A.a([A.jX(r,10,r),new A.rn(new A.qa("assets/logo.png"),r),A.jX(r,10,r),A.ac5(new A.a3k(this),A.b(this.f,"position"),t._)],t.E)),r,r,r,r,r,new A.bv(10,10,10,10),s),r,r),r)},
+return new A.uj(A.a7a(A.jq(r,A.abE(A.a([A.jX(r,10,r),new A.rn(new A.qa("assets/logo.png"),r),A.jX(r,20,r),A.ac5(new A.a3k(this),A.b(this.f,"position"),t._)],t.E)),r,r,r,r,r,new A.bv(10,10,10,10),s),r,r),r)},
 j_(){var s=0,r=A.a1(t._),q,p,o,n
 var $async$j_=A.W(function(a,b){if(a===1)return A.Z(b,r)
 while(true)switch(s){case 0:s=3
@@ -55820,7 +55820,7 @@ A.ku("Position:"+s.h(0))
 r=this.a
 r.r=r.lp(s.a,s.b)
 q=t.E
-q=A.a([A.adi(A.a([new A.rl(B.xR,new A.C(4278231314),p),A.lU("Lokasi Anda",p,p,p)],q),B.eK),A.jX(p,10,p),A.jq(B.a3,A.lU(s.h(0),p,p,p),B.fV,p,p,40,p,p,1/0),new A.jJ(B.xx,new A.Ab(2,p),p),A.jq(p,A.ac5(new A.a3i(r),A.b(r.r,"_restaurants"),t.al),p,p,p,260,p,p,1/0),A.jX(p,10,p),new A.EQ(new A.a3j(r),p,p,p,A.adC(p,p,B.BW,p,p,p,p,p,p,p,p,B.j,p,p,p,p,p,p),B.A,p,!1,A.lU("SPIN !",p,p,p),p)],q)
+q=A.a([A.adi(A.a([new A.rl(B.xR,new A.C(4278231314),p),A.lU("Lokasi Anda",p,p,p)],q),B.eK),A.jX(p,10,p),A.jq(B.a3,A.lU(s.h(0),p,p,p),B.fV,p,p,40,p,p,1/0),new A.jJ(B.xx,new A.Ab(2,p),p),A.jq(p,A.ac5(new A.a3i(r),A.b(r.r,"_restaurants"),t.al),p,p,p,260,p,p,1/0),A.jX(p,10,p),new A.EQ(new A.a3j(r),p,p,p,A.adC(p,p,B.mD,p,p,p,p,p,p,p,p,B.j,p,p,p,p,p,p),B.A,p,!1,A.lU("SPIN !",p,p,p),p)],q)
 r=A.aQ([null,0],t.LO,t.S)
 return new A.Aq(1,B.ha,A.jX(new A.Bt(new A.Zj(!0,!0,!0,q,r),p,B.b9,!1,p,!0,B.t9,!1,p,7,B.aW,B.CT,p,B.Z,p),600,p),p)}else{s=b.c
 if(s!=null)return A.lU("Cant get your location. Error "+A.e(s),p,p,p)}}else return A.abE(A.a([A.lU("Getting your location...",p,p,p),A.a7c()],t.E))
@@ -60199,7 +60199,7 @@ B.ww=new A.C(4281896508)
 B.wv=new A.C(4281236786)
 B.wo=new A.C(4279983648)
 B.BA=new A.bB([50,B.wW,100,B.wP,200,B.wJ,300,B.wG,400,B.wF,500,B.wB,600,B.wA,700,B.ww,800,B.wv,900,B.wo],t.pl)
-B.BW=new A.t5(B.BA,4283215696)
+B.mD=new A.t5(B.BA,4283215696)
 B.wT=new A.C(4293128957)
 B.wM=new A.C(4290502395)
 B.wH=new A.C(4287679225)
@@ -60211,7 +60211,7 @@ B.wn=new A.C(4279858898)
 B.wm=new A.C(4279592384)
 B.wl=new A.C(4279060385)
 B.BB=new A.bB([50,B.wT,100,B.wM,200,B.wH,300,B.wD,400,B.wz,500,B.wt,600,B.wr,700,B.wn,800,B.wm,900,B.wl],t.pl)
-B.mD=new A.t5(B.BB,4280391411)
+B.BW=new A.t5(B.BB,4280391411)
 B.ab=new A.d4(0,"hovered")
 B.bs=new A.d4(1,"focused")
 B.aA=new A.d4(2,"pressed")
